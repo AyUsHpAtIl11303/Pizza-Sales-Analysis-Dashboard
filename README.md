@@ -40,6 +40,9 @@ Explore the interactive dashboard using filters and visuals
 
 <img width="1348" height="735" alt="Screenshot 2026-03-20 124334" src="https://github.com/user-attachments/assets/5b65d28b-0482-4471-ab8f-ebf0af5f8673" />
 
+<img width="1348" height="736" alt="Screenshot 2026-03-20 124402" src="https://github.com/user-attachments/assets/ffaafa28-fe07-4405-93f2-b9a737624aa1" />
+
+
 
 
 
