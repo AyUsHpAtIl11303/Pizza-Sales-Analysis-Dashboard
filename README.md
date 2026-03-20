@@ -12,28 +12,39 @@ Alternative source:
 ## 📊 Key Performance Indicators (KPIs)
 
 💰 Total Revenue
+
 📦 Total Orders
+
 🍕 Total Pizzas Sold
+
 📈 Average Order Value
+
 📊 Average Pizzas per Order
 
 ## 🛠️ Tools & Technologies
 
 Power BI – Dashboard creation & visualization
+
 DAX (Data Analysis Expressions) – Calculations & KPIs
+
 Power Query – Data cleaning & transformation
 
 ## 🔍 Key Insights
 
 Identified best-selling pizza categories contributing maximum revenue
+
 Found peak ordering hours and busiest days
+
 Observed customer preferences for specific sizes and categories
+
 Highlighted underperforming products
 
 ## 🚀 How to Use
 
 Download the .pbix file from this repository
+
 Open it using Power BI Desktop
+
 Explore the interactive dashboard using filters and visuals
 
 ## 📸 Dashboard Preview
